@@ -1,7 +1,7 @@
 {
-  "name": "x-ray",
+  "name": "x-ray-2",
   "description": "structure any website",
-  "homepage": "https://github.com/matthewmueller/x-ray#readme",
+  "homepage": "https://github.com/SacDin/x-ray#readme",
   "version": "2.3.4",
   "main": "index.js",
   "author": {
@@ -13,14 +13,15 @@
    "Kiko Beats <josefrancisco.verdu@gmail.com>",    
    "Fabien Franzen <info@atelierfabien.be>",
    "Wah Loon Keng <kengzwl@gmail.com>",
-   "Daniel Lathrop <daniel.lathrop@gmail.com>"
+   "Daniel Lathrop <daniel.lathrop@gmail.com>",
+   "SacDin"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/matthewmueller/x-ray.git"
+    "url": "git://github.com/SacDin/x-ray.git"
   },
   "bugs": {
-    "url": "https://github.com/matthewmueller/x-ray/issues"
+    "url": "https://github.com/SacDin/x-ray/issues"
   },
   "keywords": [
     "api",
